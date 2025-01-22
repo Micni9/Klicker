@@ -1,0 +1,11 @@
+{
+    "starting_coins": 1,
+    "starting_gems": 0,
+    "gem_bonus": 0.2,
+    "generator_count": 9,
+    "multi_stage": [25,50,100,250],
+    "multi_jump": [25,100,1000,5000],
+    "generator_multi": 2,
+    "base_generate_amount": 0.01,
+    "buy_modes": ["SINGLE","x5","10","100","MAX","NEXT"]
+}
